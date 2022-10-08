@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    color: orange;
+    background-color: grey;
+    font-size: 32pt;
+    text-decoration: underline;
+}
+#saurieng{
+    text-transform: capitalize;
+    font-weight: bold;
+    text-decoration: overline;
+    color: green;
+    border: blue solid 5px;
+}
+.cam{
+    
+}
